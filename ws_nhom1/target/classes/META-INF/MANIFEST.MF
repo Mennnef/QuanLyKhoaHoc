@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+Built-By: Admin
+Build-Jdk: 17.0.5
+Class-Path: maven-jar-plugin-3.3.0.jar file-management-3.1.0.jar slf4j-a
+ pi-1.7.36.jar commons-io-2.11.0.jar maven-archiver-3.6.0.jar plexus-io-
+ 3.4.0.jar javax.inject-1.jar plexus-archiver-4.4.0.jar commons-compress
+ -1.21.jar snappy-0.4.jar xz-1.9.jar plexus-interpolation-1.26.jar plexu
+ s-utils-3.4.2.jar commons-lang3-3.9.jar mysql-connector-java-8.0.30.jar
+  protobuf-java-3.19.4.jar hibernate-core-5.6.14.Final.jar jboss-logging
+ -3.4.3.Final.jar javax.persistence-api-2.2.jar byte-buddy-1.12.18.jar a
+ ntlr-2.7.7.jar jboss-transaction-api_1.2_spec-1.1.1.Final.jar jandex-2.
+ 4.2.Final.jar classmate-1.5.1.jar javax.activation-api-1.2.0.jar hibern
+ ate-commons-annotations-5.1.2.Final.jar jaxb-api-2.3.1.jar jaxb-runtime
+ -2.3.1.jar txw2-2.3.1.jar istack-commons-runtime-3.0.7.jar stax-ex-1.8.
+ jar FastInfoset-1.2.15.jar javafx-media-21-ea+5.jar javafx-media-21-ea+
+ 5-win.jar javafx-graphics-21-ea+5.jar javafx-graphics-21-ea+5-win.jar j
+ avafx-base-21-ea+5.jar javafx-base-21-ea+5-win.jar javafx-fxml-21-ea+5.
+ jar javafx-fxml-21-ea+5-win.jar javafx-controls-21-ea+5.jar javafx-cont
+ rols-21-ea+5-win.jar javafx-swing-21-ea+5.jar javafx-swing-21-ea+5-win.
+ jar JTattoo-1.6.13.jar activation-1.1.1.jar mail-1.4.7.jar
+Main-Class: test.mainChinh
+Created-By: Maven Integration for Eclipse
+
